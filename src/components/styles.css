@@ -1,0 +1,55 @@
+.match-details {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  .team-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .team-info img {
+    width: 48px;
+    height: 48px;
+    margin-right: 10px;
+  }
+  .match-container {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    
+  }
+  
+  .match-container h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .match-container p {
+    margin: 10px 0;
+  }
+  
+  .match-container .team-info {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .match-container .team-info img {
+    width: 48px;
+    height: 48px;
+    margin-right: 10px;
+  }
+
+  .head
+  {
+    margin-left: 35rem;
+    color: black;
+    font-size: 50px;
+  }
+  
+  .name{
+    font-family: serif;
+    margin-left: 29rem;
+    color: royalblue;
+  }
